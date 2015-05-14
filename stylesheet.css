@@ -1,0 +1,10 @@
+body{position: absolute;
+}
+
+
+.image{
+	position: relative;
+	right: -500px;
+	top:150px;
+}
+
